@@ -4,6 +4,10 @@ int hello(){
 	return 0;
 }
 
+void master_changes(){
+	printf("Testing the merge conflict");
+}
+
 int main(){
 	hello();
 	return 0;
