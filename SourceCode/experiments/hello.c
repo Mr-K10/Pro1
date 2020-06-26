@@ -7,7 +7,7 @@ int hello(){
 void master_changes(){
 	printf("Testing the merge conflict");
 }
-
+Testing the unpulled push
 void Test_changes()
 	printf("Changes in the test branchto test merge conflict");
 
